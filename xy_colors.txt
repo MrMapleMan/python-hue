@@ -1,0 +1,7 @@
+# https://medium.com/hipster-color-science/a-beginners-guide-to-colorimetry-401f1830b65a
+xy_colors = {}
+xy_colors['green'] = 	[0.5,  0.9]
+xy_colors['red'] = 	[0.95, 0.0]
+xy_colors['pink'] = 	[0.4,  0.2]
+xy_colors['yellow'] = 	[0.49, 0.45]
+xy_colors['blue'] = 	[0.14, 0.13]
